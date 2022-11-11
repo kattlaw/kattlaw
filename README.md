@@ -2,7 +2,7 @@
 
 #### I design and code applications. 
 
-#### I have a passion for front-end development, but I also have some learning experience in back-end programming as well.
+#### I have a passion for front-end development, but I also have experience in back-end programming as well.
 
 
 <!---
