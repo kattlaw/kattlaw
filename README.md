@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Katherine! Thanks for checking out my GitHub!
 
-#### I design and code websites. 
+#### I design and code applications. 
 
 #### I have a passion for front-end development, but I have some learning experience in back-end programming as well.
 
