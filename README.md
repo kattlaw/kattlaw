@@ -2,7 +2,7 @@
 
 #### I design and code applications. My goal is to ensure my projects appeal to all aspects of UX/UI for clients. 
 
-#### I have a passion for front-end development, but I also have experience in back-end programming as well.
+#### I have a passion for front-end development, but I also have exposure to back-end programming as well.
 
 #### I specialize in React, Javascript, and CSS to build applications that are tailored towards practical uses in the real world.
 
