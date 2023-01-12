@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Katherine! Thanks for checking out my GitHub!
 
-#### I design and code applications. My goal is to ensure my projects appeal to all aspects of UX/UI for clients. 
+#### I'm a developer with a passion for designing and building things for the web.
 
-#### I have a passion for front-end development, but I also have exposure to back-end programming as well.
+#### I focus on combining programming technologies and designs to produce practical websites and applications.
 
-#### I specialize in React, Javascript, and CSS to build applications that are tailored towards practical uses in the real world.
+#### I enjoy testing out my creative side, and I am often exploring ways to take creativity to the next level when it comes to my work.
 
 
 <!---
