@@ -23,7 +23,7 @@ More Skills
 
 
 <br>
-Check out my Linked In
+Go to my Linked In
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/katlawdev)
 
