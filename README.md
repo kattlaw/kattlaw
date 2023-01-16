@@ -1,4 +1,5 @@
-![kattlaw-header-image](https://user-images.githubusercontent.com/97987865/212748498-c93c6e04-4f3a-4688-89e7-fb6495c074a4.png)
+![github-header-image (2)](https://user-images.githubusercontent.com/97987865/212751142-2c43bfd8-decc-4305-9d14-46ce4691d6e6.png)
+
 
 
 ## I'm a developer with a passion for designing and building things for the web.
