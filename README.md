@@ -1,3 +1,6 @@
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/katlawdev)
+
 ## 👋 Hi, I’m Katherine! Thanks for checking out my GitHub!
 
 #### I'm a developer with a passion for designing and building things for the web.
