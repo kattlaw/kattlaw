@@ -14,13 +14,13 @@ Want to know more about me? [Check out my portfolio.](https://klawdev.com)
 
 ## 🖥️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,html,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,next,react,css,html,nodejs&theme=light)](https://skillicons.dev)
 
 
 More Skills
 <br>
   
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,bash,git,github,express,mongodb,netlify,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,bash,git,github,express,mongodb,netlify,vercel,vscode&theme=light)](https://skillicons.dev)
 
 
 <br>
